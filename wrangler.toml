@@ -1,0 +1,5 @@
+name = "3d-modelling"
+main = "src/index.js"
+compatibility_date = "2022-12-06"
+
+account_id = "eb72da6777f630a3116117a141717763"
